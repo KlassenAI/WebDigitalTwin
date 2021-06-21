@@ -1,0 +1,2 @@
+MinVen6
+C:/OpenModelica/models/MinVen6.mo
